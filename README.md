@@ -1,4 +1,4 @@
-# Enterprise — a virtual agentic organization for Hermes Agent
+# Henterprise — a virtual agentic organization for Hermes Agent
 
 Sixteen departments, 143 skills, and a soul for each department. A chief executive over the
 functions a company actually has: strategy, finance, product, technology, security, legal and risk,
